@@ -1,0 +1,77 @@
+﻿  Simple Bank System.cpp
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Simple%20Bank%20System.cpp')
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Simple%20Bank%20System.cpp')
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Simple%20Bank%20System.cpp')
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Simple%20Bank%20System.cpp')
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Simple%20Bank%20System.cpp')
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Simple%20Bank%20System.cpp')
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsUtil.h(65,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Simple%20Bank%20System.cpp')
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsUser.h(179,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Simple%20Bank%20System.cpp')
+      C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsUser.h(23,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Simple%20Bank%20System.cpp')
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Simple%20Bank%20System.cpp')
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsBankClient.h(197,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Simple%20Bank%20System.cpp')
+      C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsBankClient.h(152,12):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsBankClient.h(29,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Simple%20Bank%20System.cpp')
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsBankClient.h(162,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Simple%20Bank%20System.cpp')
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsBankClient.h(163,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Simple%20Bank%20System.cpp')
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Simple%20Bank%20System.cpp')
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Simple%20Bank%20System.cpp')
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsDepositScreen.h(66,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Simple%20Bank%20System.cpp')
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsWithdrawScreen.h(65,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Simple%20Bank%20System.cpp')
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Simple%20Bank%20System.cpp')
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsTransferScreen.h(39,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Simple%20Bank%20System.cpp')
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsTransferScreen.h(44,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Simple%20Bank%20System.cpp')
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsUpdateCurrencyRateScreen.h(15,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Simple%20Bank%20System.cpp')
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsCurrencyCalculatorScreen.h(14,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Simple%20Bank%20System.cpp')
+  
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsBankClient.h(363,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\hammam\source\repos\Simple Bank System\Simple Bank System\clsUser.h(334,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Simple Bank System.vcxproj -> C:\Users\hammam\source\repos\Simple Bank System\x64\Debug\Simple Bank System.exe
